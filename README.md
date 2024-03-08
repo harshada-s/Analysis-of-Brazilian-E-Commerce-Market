@@ -18,3 +18,6 @@ analyze it with day of week, month of year and season. The result is used to rev
 behavior for the season with maximum orders. Along with this, we intend to estimate the products'
 delivery times based on the region of the buyer and seller. Delivery estimates are then visualized on a
 map. Text analysis is performed on user comments to gauge public opinion on purchases.
+
+To view the tableau dashboards created as a part of the Analysis of Brazilian E Commerce Market project go to:
+https://harshada-s.github.io/Tableau-Dashboards-Analysis-of-Brazilian-E-Commerce-Market/
